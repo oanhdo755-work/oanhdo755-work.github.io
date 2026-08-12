@@ -8,7 +8,7 @@ This analysis analyzes the sales performance of Unilever across categories and p
 
 <img src="images/excel-dashboard.png?raw=true"/>
 
-<img src="https://img.shields.io/badge/Microsoft Excel-217346?logo=microsoft-excel&logoColor=white/>
+<img src="https://img.shields.io/badge/Microsoft Excel-217346?logo=microsoft-excel&logoColor=white"/>
 
 [View project on Github]()
 
