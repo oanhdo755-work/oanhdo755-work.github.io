@@ -1,5 +1,5 @@
 title: Do Oanh # your name (or website title) here
-logo: "images/avatar-bi.jpg" # your photo (or logo) here
+logo: "/images/avatar-bi.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   An Analyst enthusiast, with interests in sales, retail, or e-commerce data. 
   <br><br>
