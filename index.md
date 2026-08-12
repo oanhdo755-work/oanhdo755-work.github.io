@@ -1,21 +1,15 @@
-## Portfolio
+## Selected projects in Data Analysis, Dashboard Reporting, and Business Intelligence
 
 ---
 
-### Category Name 1 
+### Unilever Sales Analysis Dashboard
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This analysis analyzes the sales performance of Unilever across categories and products in one week. In this project, I built an interactive dashboard in MS Excel and discover insights as well as recommendations to optimize the revenue.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="excel-dashboard.png"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View project on Github]()
 
----
 
 ### Category Name 2
 
