@@ -8,7 +8,7 @@ This analysis transformed the one-week sales data of Unilever across categories 
 
 <img src="images/excel-dashboard.png?raw=true"/>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_Excel-brightgreen?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/Power_Query-brightgreen"><img alt="Static Badge" src="https://img.shields.io/badge/PivotTable-brightgreen"><img alt="Static Badge" src="https://img.shields.io/badge/PivotChart-brightgreen">
+<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_Excel-brightgreen?style=flat"> <img alt="Static Badge" src="https://img.shields.io/badge/Power_Query-brightgreen"> <img alt="Static Badge" src="https://img.shields.io/badge/PivotTable-brightgreen"> <img alt="Static Badge" src="https://img.shields.io/badge/PivotChart-brightgreen">
 
 [View project on Github](https://github.com/oanhdo755-work/unilever-sales-dashboard)
 
