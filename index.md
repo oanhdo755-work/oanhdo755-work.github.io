@@ -6,20 +6,13 @@
 
 This analysis analyzes the sales performance of Unilever across categories and products in one week. In this project, I built an interactive dashboard in MS Excel and discover insights as well as recommendations to optimize the revenue.
 
-<img src="excel-dashboard.png"/>
+<img src="images/excel-dashboard.png/raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View project on Github]()
 
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
